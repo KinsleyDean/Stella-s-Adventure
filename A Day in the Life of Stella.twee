@@ -1,0 +1,164 @@
+:: StoryTitle
+A Day in the Life of Stella
+
+
+:: StoryData
+{
+  "ifid": "D06B36B4-AA4C-4CE0-8A1B-BC7EA50D2068",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Introduction",
+  "zoom": 1
+}
+
+
+:: Growling and barking uncontrollably {"position":"475,550","size":"100,100"}
+(text-colour:#ebdafb)+(b4r:"solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[Stella runs up to the biggest dog in the park and start barking and growling uncontrolably. She even adds in some ankle biting to the mix. Stella's owner picks you up, apoligizes to the owner embarressed, and walks out of the dog park with you. Stella gets scolded and does not get any treats for the rest of the day. She did not make any friends today. Poor Stella.]
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
+
+
+:: Introduction {"position":"600,300","size":"200,200"}
+(align:"=><=")+(b4r:"dotted")+(b4r-size:2)+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[Kinsley Dean's Non-Linear Adventure Game!]]
+
+(align:"=><=")[(b4r:"dotted")+(b4r-size:2)+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)
+[''Stella is your average pug. She loves to play with her toys, get lots of cuddle times with her owner, and eating her favorite treats. Stella is very good at getting along with humans.  She loves that she can get attention and love from all of them. What Stella is not good, at is making friends with other dogs. Today Stella's owner has taken her to a dog park for the first time. Help Stella through her desicions through the day! Click on the different choices to move on to the next prompts.'']]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-size:2)+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[[Lets Go!]]]
+
+
+:: Lets Go! {"position":"650,525","size":"100,100"}
+(text-colour:#ebdafb)+(b4r:"none","none","solid")+(b4r-size:2)+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[[Start the adventure!]]
+
+
+:: No {"position":"625,1025","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[ Stella stares at the pug. The pug then looses interest in Stella and begins to walk off and smell different things in the park. Stella follows her around and they smell things together. They end up finding a hidden pile of poop, which they both roll around in. Stella's owner rushes over and scolds Stella. They go home early and Stella is forced to take a dreaded bath. Stella claws and scratches her owner during the bath and gets put into her crate without dinner. Stella is very sad and hungry. Bad Stella. This is all the other pugs fault. Stella doesn't want to make another friend ever again.]]
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
+
+
+:: Observe from a distance {"position":"250,725","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[Stella watches the other dogs as they do their own things. Should she continue to watch them with her owner?]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[Of course she should stay, she wouldn't want her owner to be lonely in a place like this.]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[She should go explore the grounds while observing the other dogs.]]
+
+
+:: Of course she should stay, she wouldn't want her owner to be lonely in a place like this. {"position":"375,800","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[Stella stays with her favorite person. No matter how much her owner tries to get her to play, Stella stays with her and they enjoy the sunny afternoon together on a park bench. They end up going home, and having a regular evening together at home. Stella is content, but she still didn't make any friends. She'll try again next time. ]]
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
+
+
+:: Relax with new friend corso {"position":"1075,700","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[Stella sits with the Corso until her owner calls her over. Her owner praises her for making a new friend and gives her extra treats. They go home and Stella still has a lot of energy. She runs around the house, and knocks over a plant. She is scolded and put in her crate for the night. Poor Stella. At least she made a friend today.]]
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
+
+
+:: She should go explore the grounds while observing the other dogs. {"position":"125,800","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[Stella beggins to walk the fence line, and starts to sniff around while keeping an eye on the other dogs. She smells two very different, but interesting smells. One smells like a plant, one smells like food. Which should she follow?]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[The plant]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[The food]]
+
+
+:: Silently sit there and try to figure it out. {"position":"450,1050","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[Stella sits down and gently tries to pull her head out of the fence a few times and is unsuccessful. She lays down defeated and tired from her snack and takes a short nap. Stella's owner eventually comes looking for her, and rescues her. They go home, and Stella's owner complains to the dogpark owner about the dangerous fence and the dirty trash can areas. Stella's owner will no longer be taking her to any dog parks. Stella lives out the rest of her days being happy and spoiled by the people she loves. Yay Stella.]]
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
+
+
+:: Start the adventure! {"position":"650,650","size":"100,100"}
+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[Stella enters the dog park with her owner. She looks around. What should she start doing?]
+
+
+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Whining]]
+
+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Growling and barking uncontrollably]]
+
+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Observe from a distance]]
+
+
+:: Start to freak out and scream her head off {"position":"400,925","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[Stella beggings to pull as hard as she can and screams. Her owner rushes over and helps her out of the fence. In the chaos, Stella has hurts her poor little skull. Her owner takes her home, were they have extra cuddle time and treats. Stella is still unhappy, and has a headache. Poor Stella. She did not make any friends, and emabrresed herself infront of everyone at the dogpark. She does not want to go back. At least she got pizza.]]
+
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
+
+
+:: The cane corso {"position":"1050,900","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[Stella walk up and give a greeting to the corso. He gives a lazy one in return. Stella walks up and starts to sniff. The corso lays down and lets you smell around. He is friendly, but not very playful. Would Stella like to make friends with the corso and relax with him in the park, or go make friends with the other pug?]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[[Relax with new friend corso]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[[The other pug in the park]]
+
+
+:: The chihuahua sitting next to their owner {"position":"875,825","size":"100,100"}
+(b4r:"solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)+(align:"=><=")[Stella walks up to the old chihuahua and gives a small greeting. He stares and her and starts shaking and whining. He obviously does not want Stella around. She leaves and chooses...]
+
+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)+(align:"=><=")[[The cane corso]]
+
+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)+(align:"=><=")[[The other pug in the park]]
+
+
+:: The food {"position":"225,925","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[Stella follows the scent to  the other side of the park. She sees a piece of pizza just outside the fence next to a trash can. Stella loves pizza! She sticks her head through the bars, and eats away. When she is done, Stella notices that she can't get her head back through the fence. What should she do?]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[Start to freak out and scream her head off]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[Silently sit there and try to figure it out.]]
+
+
+
+
+:: The other pug in the park {"position":"800,1000","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[Stella walks up to the pug and gives a polite greeting. The other pug gives one back, and gets into a play position, ready to run around with her. Stella is hesitant. Should she also get into the play position?]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[[Yes]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[[No]]
+
+
+:: The plant {"position":"125,650","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[Stella follows the scent to a flower. She has never smelled this kind before, and loves the smell. She puts her nose right into it and take many deep breaths. What she didn't know was that a bee also loved this flower. While Stella was sniffing, she scared the bee and got stung! Ouch! Stella ran back to her owner crying with a now swelling face. They went to the vet, got her taken care of, and went back home. Now Stella will never like the dogpark ever again becuase it will remind her of the pain. I guess you can't blame her. Poor Stella.]]
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
+
+
+:: Whining {"position":"850,700","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[Stella's owner gives her gentle encouragment and hands her a treat. Stella is happy, and decides to go meet another dog. Who should she pick?]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[The chihuahua sitting next to their owner]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[The cane corso]]
+
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(text-colour:#ebdafb)[[The other pug in the park]]
+
+
+:: Yes {"position":"700,875","size":"100,100"}
+(align:"=><=")+(b4r:"dotted")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)[(text-colour:#ebdafb)[Stella plays with the other pug and they run around to their hearts content until they are so wipped out they lay in the shade together. Stella's owner calls her over, and as she slowly walks over, her owner showers her with love and compliments on her new friend. They go home, and Stella is given extra dinner for such good behavior! She eats her fill and passes out for the rest of the night. Stella is happy and content. Good job Stella!]]
+
+
+
+
+(align:"=><=")[Restart?]
+
+(b4r:"none","none","solid")+(b4r-colour:#e3c7ff,#e8d1ff,#e6ccff,#e6ccff)+(align:"=><=")[[Start the adventure!]]
